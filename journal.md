@@ -30,4 +30,10 @@ blablabla
 bla -
 bla-bla-blog
 
+<<<<<<< Updated upstream
 zfkjzbfzlekjfbzekjbzekbzkrg
+=======
+
+
+fezhfkezjfhzfjzhfezk
+>>>>>>> Stashed changes
