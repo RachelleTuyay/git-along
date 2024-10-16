@@ -1,5 +1,8 @@
 # Journal de bord
 
+# Sénce 3 :
+Exo 2.a étape 1
+
 ## Travail sur bash
 
 bla bla bla
