@@ -22,3 +22,5 @@ Si je veux faire une liste à puces :
 - taper :w pour écrire
 - taper :q pour sortir de vim
 
+
+## Correction git-more : 
