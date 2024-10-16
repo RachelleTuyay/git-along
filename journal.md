@@ -3,6 +3,7 @@ I AM ERROR
 
 # Sénce 3 :
 Exo 2.a étape 1
+Exo 2.a étape 3
 
 ## Travail sur bash
 
@@ -25,6 +26,4 @@ Si je veux faire une liste à puces :
 - taper esc pour passer en mode commande
 - taper :w pour écrire
 - taper :q pour sortir de vim
-
-
-## Correction git-more : 
+ 
