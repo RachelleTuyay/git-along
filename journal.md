@@ -26,3 +26,6 @@ Si je veux faire une liste à puces :
 - taper :w pour écrire
 - taper :q pour sortir de vim
  
+blablabla
+bla -
+bla-bla-blog
